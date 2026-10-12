@@ -6,9 +6,10 @@ li {
   list-style: none;
   /* 以下の2行を削除してください */
 }
-.parent {
+header{
       background:#686b65;
       width:1200px;
+      height:auto;
 }
 .center-image {
   display: block;          /* インライン要素をブロック化 */
