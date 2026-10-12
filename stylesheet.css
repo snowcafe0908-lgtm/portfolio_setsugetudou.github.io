@@ -24,9 +24,11 @@ li {
       background:#686b65;
       height:800px;
 }
-.parent {
-  text-align: center;
-  width:43%;
+.center-image {
+  display: block;          /* インライン要素をブロック化 */
+  margin: 0 auto;          /* 左右の余白を自動で均等に */
+  max-width: 100%;         /* 親要素からはみ出さないように */
+  height: auto;            /* アスペクト比を維持 */
 }
 
 .main{
