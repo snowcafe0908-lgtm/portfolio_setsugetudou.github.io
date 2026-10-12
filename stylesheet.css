@@ -24,11 +24,9 @@ li {
       background:#686b65;
       height:800px;
 }
-.top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url("img/maccha.jpg");
-  color: white;
-  background-size: cover;
+.parent {
+  text-align: center;
+  width:43%;
 }
 
 .main{
