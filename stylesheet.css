@@ -6,24 +6,9 @@ li {
   list-style: none;
   /* 以下の2行を削除してください */
 }
-
-/* header  top画面には表示しない
-.header{background:#27210b;
-        height: 90px;
-        font-size:36px;
-}
-.header-list li{list-style: none;
-           float:left;
-         }
-
-.header-logo{
-  font-size:36px;
-  float:left;
-}*/
-.copy-container {
+.parent {
       background:#686b65;
       width:1200px;
-      height:800px;
 }
 .center-image {
   display: block;          /* インライン要素をブロック化 */
